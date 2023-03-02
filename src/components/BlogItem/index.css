@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+}
+.profileImage {
+  height: 100px;
+  width: 100px;
+}
